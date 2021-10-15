@@ -1,0 +1,1 @@
+﻿Browser("Dashboard [Jenkins]").Page("Dashboard [Jenkins]").Image("Jenkins").Check CheckPoint("Jenkins") @@ hightlight id_;_Browser("Dashboard [Jenkins]").Page("Dashboard [Jenkins]").Image("Jenkins")_;_script infofile_;_ZIP::ssf1.xml_;_
